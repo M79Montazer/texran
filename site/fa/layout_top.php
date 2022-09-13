@@ -1,6 +1,6 @@
-﻿
+
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -93,7 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="hfeed site" id="page">
 <header class="site-header header-main-layout-1 ast-primary-menu-enabled ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
 <div id="ast-desktop-header" data-toggle-type="dropdown">
-<div class="ast-main-header-wrap main-header-bar-wrap ">http://www.texran.com
+<div class="ast-main-header-wrap main-header-bar-wrap ">
 <div class="ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item" data-section="section-primary-header-builder">
 <div class="site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-primary-header-builder">
 <div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="index.php#Representetive" class="menu-link">Representetive of...</a></li>
 <li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="second hand.php" class="menu-link">Second hand machines</a></li>
 <li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="contact us.php" class="menu-link">Contact us</a></li>
-<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="fa/index.php" class="menu-link">فارسی</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="../index.php" class="menu-link">English</a></li>
 </ul></div></nav></div></div> </div>
 
 </div>
@@ -158,7 +158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="index.php#Representetive" class="menu-link">Representetive of...</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="second hand.php" class="menu-link">Second hand machines</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="contact us.php" class="menu-link">Contact us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="fa/index.php" class="menu-link">فارسی</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="../index.php" class="menu-link">English</a></li>
 </ul></div></nav></div></div> </div>
 </div>
 </div>
