@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/texran/public_html/
-    - rm /home/texran/public_html/*
+    - find $DEPLOYPATH -delete
     - /bin/cp -R site $DEPLOYPATH
