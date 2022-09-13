@@ -1,4 +1,4 @@
-<?php  include 'layout_top.php';   ?>
+﻿<?php  include 'layout_top.php';   ?>
 
 <section style="background-image:url(../bg.jpg); padding:180px 0px" class="elementor-section elementor-top-section elementor-element elementor-element-c50838b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c50838b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-background-overlay"></div>
@@ -31,7 +31,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-e5e7443 elementor-widget elementor-widget-heading" data-id="e5e7443" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">sperotto rimar machines:</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">ماشین های SPEROTTO RIMAR:</h2> </div>
 </div>
 <div class="elementor-element elementor-element-151b4b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="151b4b0" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -67,7 +67,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/calibra/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -96,7 +96,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/compas/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -134,7 +134,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/decofast/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -163,7 +163,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/fixa/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -200,7 +200,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/multidecat/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -229,7 +229,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/nova/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -266,7 +266,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/plana/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -295,7 +295,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/plurima/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -332,7 +332,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/santacompact-ck/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -361,7 +361,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/santaframe/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -398,7 +398,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/santashrink/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -427,7 +427,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/santaspread/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -464,7 +464,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/softa/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -493,7 +493,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/universa/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -530,7 +530,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/velura-dd/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -559,7 +559,7 @@
 <div class="elementor-button-wrapper">
 <a href="https://www.santexrimar.com/brands/sperotto-rimar/machinery/velura-sd/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>

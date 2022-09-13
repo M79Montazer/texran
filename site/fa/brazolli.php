@@ -1,4 +1,4 @@
-<?php  include 'layout_top.php';   ?>
+﻿<?php  include 'layout_top.php';   ?>
 
 <section style="background-image:url(../bg.jpg); padding:180px 0px" class="elementor-section elementor-top-section elementor-element elementor-element-c50838b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c50838b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-background-overlay"></div>
@@ -31,7 +31,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-e5e7443 elementor-widget elementor-widget-heading" data-id="e5e7443" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Brazzoli machines:</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">ماشین های Brazzoli:</h2> </div>
 </div>
 <div class="elementor-element elementor-element-151b4b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="151b4b0" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -58,14 +58,14 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Brazzoli Ecologic Plus</h5>
-<p class="elementor-image-box-description">Ecologic Plus is the machine for rope fabric dyeing process designed and produced by Brazzoli.</p></div></div> </div>
+<p class="elementor-image-box-description">Ecologic Plus دستگاهی برای فرآیند رنگرزی پارچه طناب است که توسط Brazzoli طراحی و تولید شده است.</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="https://www.brazzoli.it/en/products/brazzoli-ecologic-plus/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -87,14 +87,14 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Ecosynthetic</h5>
-<p class="elementor-image-box-description">Ecosynthetic is the machine designed for delicate, light and heavy fabrics.</p></div></div> </div>
+<p class="elementor-image-box-description">Ecosynthetic دستگاهی است که برای پارچه های ظریف، سبک و سنگین طراحی شده است.</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="https://www.brazzoli.it/en/products/ecosynthetic/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -119,14 +119,14 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Brazzoli Aquarius</h5>
-<p class="elementor-image-box-description">Aquarius is Brazzoli dyeing machine for samples and/or for small batches</p></div></div> </div>
+<p class="elementor-image-box-description">Aquarius دستگاه رنگرزی Brazzoli برای نمونه ها و/یا برای دسته های کوچک است</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="https://www.brazzoli.it/en/products/brazzoli-aquarius/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -148,14 +148,14 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Ecolab</h5>
-<p class="elementor-image-box-description">Designed for sample dyeing process between 3 kg - 8 kg fabric capacities.</p></div></div> </div>
+<p class="elementor-image-box-description">طراحی شده برای فرآیند رنگرزی نمونه با ظرفیت پارچه بین 3 تا 8 کیلوگرم.</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="https://www.brazzoli.it/en/products/ecolab/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
