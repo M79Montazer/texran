@@ -108,11 +108,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
 <div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex">
 <ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile">
-<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-13"><a href="index.php" aria-current="page" class="menu-link">Home</a></li>
-<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="about us.php" class="menu-link">About us</a></li>
-<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="index.php#Representetive" class="menu-link">Representetive of...</a></li>
-<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="second hand.php" class="menu-link">Second hand machines</a></li>
-<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="contact us.php" class="menu-link">Contact us</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-13"><a href="index.php" aria-current="page" class="menu-link">خانه</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="about us.php" class="menu-link">درباره ما</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="index.php#Representetive" class="menu-link">نماینده شرکت های...</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="second hand.php" class="menu-link">ماشین های دسته دوم</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="contact us.php" class="menu-link">ارتباط با ما</a></li>
 <li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="../index.php" class="menu-link">English</a></li>
 </ul></div></nav></div></div> </div>
 
@@ -153,11 +153,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
 <div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
 <div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-13"><a href="index.php" aria-current="page" class="menu-link">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="about us.php" class="menu-link">About us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="index.php#Representetive" class="menu-link">Representetive of...</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="second hand.php" class="menu-link">Second hand machines</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="contact us.php" class="menu-link">Contact us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-13"><a href="index.php" aria-current="page" class="menu-link">خانه</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="about us.php" class="menu-link">درباره ما</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="index.php#Representetive" class="menu-link">نماینده شرکت های...</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="second hand.php" class="menu-link">ماشین های دسته دوم</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="contact us.php" class="menu-link">ارتباط با ما</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="../index.php" class="menu-link">English</a></li>
 </ul></div></nav></div></div> </div>
 </div>

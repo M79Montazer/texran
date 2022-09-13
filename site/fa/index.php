@@ -1,4 +1,4 @@
-<?php  include 'layout_top.php';   ?>
+﻿<?php  include 'layout_top.php';   ?>
 
 <section style="background-image:url(../bg.jpg)" class="elementor-section elementor-top-section elementor-element elementor-element-c50838b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c50838b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-background-overlay"></div>
@@ -9,7 +9,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-3428592 elementor-widget elementor-widget-heading" data-id="3428592" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
- <h3 class="elementor-heading-title elementor-size-default">Textile engineering and consultant Co.</h3> </div>
+ <h3 class="elementor-heading-title elementor-size-default">شرکت مهندسی و مشاور نساجی</h3> </div>
 </div>
 <div class="elementor-element elementor-element-92570e2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="92570e2" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -21,14 +21,14 @@
 </div>
 <div class="elementor-element elementor-element-453e782 elementor-widget elementor-widget-heading" data-id="453e782" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h1 class="elementor-heading-title elementor-size-default">Texran</h1> </div>
+<h1 class="elementor-heading-title elementor-size-default">تکسران</h1> </div>
 </div>
 <div class="elementor-element elementor-element-cab84e1 elementor-align-center elementor-widget elementor-widget-button" data-id="cab84e1" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -52,11 +52,16 @@
 <div class="elementor-element elementor-element-cb5a798 elementor-widget elementor-widget-testimonial" data-id="cb5a798" data-element_type="widget" data-widget_type="testimonial.default">
 <div class="elementor-widget-container">
 <div class="elementor-testimonial-wrapper">
-<div class="elementor-testimonial-content"><b>TEXRAN</b></div>
+<div class="elementor-testimonial-content"><b>تکسران</b></div>
 <div class="elementor-testimonial-meta">
 <div class="elementor-testimonial-meta-inner">
 <div class="elementor-testimonial-details">
-<div class="elementor-testimonial-name">Texran company has been established in 1995 and leaded by textile engineers mainly graduated in 1970. The company is active in business any kind of second hand textile machines, which globally provided . Also active in advising services of textile field for any requirement. The main office is located in Tehran-Iran.</div>
+<div class="elementor-testimonial-name">
+شرکت تکسران در سال 1374 تاسیس و توسط مهندسان نساجی که عمدتاً در سال 1349 فارغ التحصیل شده اند، هدایت می شود.
+این شرکت در زمینه تجارت انواع ماشین آلات نساجی دست دوم که در سطح جهانی ارائه می شود، فعال است.
+  همچنین در زمینه مشاوره در زمینه نساجی برای هر نیازی فعال است. دفتر اصلی در تهران واقع شده است.
+
+</div>
 </div>
 </div>
 </div>
@@ -93,7 +98,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-e5e7443 elementor-widget elementor-widget-heading" data-id="e5e7443" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Representetive of:</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">نماینده شرکت های:</h2> </div>
 </div>
 <div class="elementor-element elementor-element-151b4b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="151b4b0" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -118,14 +123,14 @@
 </div>
 <div class="elementor-element elementor-element-7c7a6b0 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7c7a6b0" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Brazzoli S.r.l</h5><p class="elementor-image-box-description">Fabric dyeing</p></div></div> </div>
+<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Brazzoli S.r.l</h5><p class="elementor-image-box-description">رنگرزی پارچه</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="brazolli.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -147,14 +152,14 @@
 </div>
 <div class="elementor-element elementor-element-7c7a6b0 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7c7a6b0" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Caru S.r.l</h5><p class="elementor-image-box-description">Fabric finishing</p></div></div> </div>
+<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Caru S.r.l</h5><p class="elementor-image-box-description">تکمیل پارچه</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="caru.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -177,14 +182,14 @@
 </div>
 <div class="elementor-element elementor-element-7c7a6b0 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7c7a6b0" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Sperotto Rimar S.r.l</h5><p class="elementor-image-box-description">Fabric finishing</p></div></div> </div>
+<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Sperotto Rimar S.r.l</h5><p class="elementor-image-box-description">تکمیل پارچه</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-874b8fb elementor-align-center elementor-widget elementor-widget-button" data-id="874b8fb" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="sperottorimar.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>
@@ -206,14 +211,14 @@
 </div>
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Ozver Mekatronik</h5><p class="elementor-image-box-description">Fiber & Yarn dyeing</p></div></div> </div>
+<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Ozver Mekatronik</h5><p class="elementor-image-box-description">رنگرزی الیاف و نخ</p></div></div> </div>
 </div>
 <div class="elementor-element elementor-element-4cc62c7 elementor-align-center elementor-widget elementor-widget-button" data-id="4cc62c7" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
 <a href="ozver.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Learn More</span>
+<span class="elementor-button-text">اطلاعات بیشتر</span>
 </span>
 </a>
 </div>

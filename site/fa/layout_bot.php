@@ -9,15 +9,15 @@
 </div>
 </div> 
 </div>
-<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+<footer style=" direction: rtl" class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
 <div class="site-primary-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-primary-footer-builder">
 <div class="ast-builder-grid-row-container-inner">
 <div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
 <div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 <aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1">
 <div class="footer-widget-area-inner site-info-inner"><section id="block-3" class="widget widget_block widget_text">
-<p class="has-text-align-center">Email: info@texran.com | Tel: +9821 22407456 -22644132| Fax: +9821 22401409 <br />
-Email for second hand: texrann@gmail.com | Tel: +9821 22407456 | Fax: +9821 22401409 <p>
+<p class="has-text-align-center">ایمیل: info@texran.com | تلفن: 22407456 -22644132 | فکس: 22401409 <br />
+ایمیل برای ماشین های دست دوم: texrann@gmail.com | تلفن: 22407456  | فکس: 22401409  <p>
 </section></div> </aside>
 <div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
 <div class="ast-footer-copyright"><p>Copyright © 2022 Texran</p>

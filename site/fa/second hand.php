@@ -11,7 +11,7 @@
 
 <div class="elementor-element elementor-element-453e782 elementor-widget elementor-widget-heading" data-id="453e782" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h1 class="elementor-heading-title elementor-size-default">SECOND HAND MACHINES</h1> </div>
+<h1 class="elementor-heading-title elementor-size-default">ماشین های دست دوم</h1> </div>
 </div>
 
 </div>
@@ -31,7 +31,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-e5e7443 elementor-widget elementor-widget-heading" data-id="e5e7443" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Second hand machines:</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">ماشین های دست دوم:</h2> </div>
 </div>
 <div class="elementor-element elementor-element-151b4b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="151b4b0" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -60,7 +60,11 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Thies jet dyeing machine</h5>
-<p class="elementor-image-box-description">Capacity : 450 kg<br />Year: 1994<br />Roto stream</p></div></div> </div>
+<p class="elementor-image-box-description">
+ظرفیت : 450 کیلوگرم
+<br />
+سال ساخت: 1994
+</p></div></div> </div>
 </div>
 
 </div>
@@ -79,7 +83,7 @@
 </div>
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
-<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">HENRIKSEN jigger dyeing machine</h5><p class="elementor-image-box-description">Width: 220cm<br />Loading diameter: 800mm</p></div></div> </div>
+<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">HENRIKSEN jigger dyeing machine</h5><p class="elementor-image-box-description">عرض: 220سانتی متر<br />قطر بارگیری: 800 میلی متر</p></div></div> </div>
 </div>
 
 </div>
@@ -99,7 +103,7 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">OBEM hank dyeing machin</h5>
-<p class="elementor-image-box-description">Capacity : 70 kg<br />Temperature : 103 °C</p></div></div> </div>
+<p class="elementor-image-box-description">ظرفیت : 70 کیلوگرم<br />دما: 103 درجه سانتی گراد </p></div></div> </div>
 </div>
 
 </div>
@@ -127,8 +131,8 @@
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">LORIS BELLINI hank dyeing cabinet</h5>
-<p class="elementor-image-box-description">Capacity : 2 kg<br />
-Temperature : 103 °C</p></div></div> </div>
+<p class="elementor-image-box-description">ظرفیت : 2 کیلوگرم<br />
+دما: 103 درجه سانتی گراد</p></div></div> </div>
 </div>
 
 </div>
@@ -148,13 +152,13 @@ Temperature : 103 °C</p></div></div> </div>
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Then jet dyeing machines</h5>
-<p class="elementor-image-box-description">Qty: 2
+<p class="elementor-image-box-description">تعداد : 2
 <br />
-High temperature
+دمای بالا
 <br />
-Capacity: 450Kg
+ظرفیت: 450 کیلوگرم
 <br />
-Year: 1996</p></div></div> </div>
+سال ساخت: 1996</p></div></div> </div>
 </div>
 
 </div>
@@ -175,11 +179,11 @@ Year: 1996</p></div></div> </div>
 <div class="elementor-element elementor-element-ba141ea elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ba141ea" data-element_type="widget" data-widget_type="image-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">EHWA foulard machine</h5>
-<p class="elementor-image-box-description">Type: Suntex
+<p class="elementor-image-box-description">مدل: Suntex
 <br/>
-Width: 2 M
+عرض: 2 متر
 <br/>
-Condition: New</p></div></div> </div>
+وضعیت: نو</p></div></div> </div>
 </div>
 
 </div>
