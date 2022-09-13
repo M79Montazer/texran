@@ -93,7 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="hfeed site" id="page">
 <header class="site-header header-main-layout-1 ast-primary-menu-enabled ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
 <div id="ast-desktop-header" data-toggle-type="dropdown">
-<div class="ast-main-header-wrap main-header-bar-wrap ">http://www.texran.com
+<div class="ast-main-header-wrap main-header-bar-wrap ">
 <div class="ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item" data-section="section-primary-header-builder">
 <div class="site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-primary-header-builder">
 <div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
