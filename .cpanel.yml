@@ -1,1 +1,5 @@
- 
+ ---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/texran/public_html/
+    - /bin/cp -R site $DEPLOYPATH
