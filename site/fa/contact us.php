@@ -1,4 +1,4 @@
-<?php  include 'layout_top.php';   ?>
+﻿<?php  include 'layout_top.php';   ?>
 
 <section style="background-image:url(../bg.jpg); padding:180px 0px" class="elementor-section elementor-top-section elementor-element elementor-element-c50838b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c50838b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-background-overlay"></div>
@@ -11,7 +11,7 @@
 
 <div class="elementor-element elementor-element-453e782 elementor-widget elementor-widget-heading" data-id="453e782" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h1 class="elementor-heading-title elementor-size-default">Contact us</h1> </div>
+<h1 class="elementor-heading-title elementor-size-default">ارتباط با ما</h1> </div>
 </div>
 
 </div>
@@ -31,7 +31,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-903c186 elementor-widget elementor-widget-heading" data-id="903c186" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h4 class="elementor-heading-title elementor-size-default">Contact us for representative section:</h4> </div>
+<h4 class="elementor-heading-title elementor-size-default">ارتباط با  ما برای بخش نمایندگی:</h4> </div>
 </div>
 <div class="elementor-element elementor-element-23d597c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="23d597c" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -46,16 +46,16 @@
 <div class="elementor-widget-container">
 <ul class="elementor-icon-list-items">
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">P.O.Box: 19858-74485 Tehran, Iran</span>
+<span class="elementor-icon-list-text">کد پستی: 19858-74485 تهران، ایران</span>
 </li>
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">Email: Info@texran.com</span>
+<span class="elementor-icon-list-text">ایمیل: Info@texran.com</span>
 </li>
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">Tel: +98-21-22407456 -22644132</span>
+<span class="elementor-icon-list-text">تلفن: 22644132-22407456-021 </span>
 </li>
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">Fax: +98-21-22401409</span>
+<span class="elementor-icon-list-text">فکس: 22401409-021</span>
 </li>
 
 
@@ -73,7 +73,7 @@
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-43a347a elementor-widget elementor-widget-heading" data-id="43a347a" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h4 class="elementor-heading-title elementor-size-default">Contact us for second hand machines section:</h4> </div>
+<h4 class="elementor-heading-title elementor-size-default">ارتباط با ما برای بخش ماشین های دست دوم:</h4> </div>
 </div>
 <div class="elementor-element elementor-element-7818b1a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7818b1a" data-element_type="widget" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -88,16 +88,16 @@
 <div class="elementor-text-editor elementor-clearfix">
 <ul class="elementor-icon-list-items">
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">P.O.Box: 19858-74485 Tehran, Iran</span>
+<span class="elementor-icon-list-text">کد پستی: 19858-74485 تهران، ایران</span>
 </li>
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">Email: Texrann@gmail.com</span>
+<span class="elementor-icon-list-text">ایمیل: Texrann@gmail.com</span>
 </li>
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">Tel: +98-21-22407456</span>
+<span class="elementor-icon-list-text">تلفن: 22407456-021</span>
 </li>
 <li class="elementor-icon-list-item">
-<span class="elementor-icon-list-text">Fax: +98-21-22401409</span>
+<span class="elementor-icon-list-text">فکس: 22401409-021</span>
 </li>
 
 
